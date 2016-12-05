@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Ò»Ê×ÌÆÊ«
 /d/work/gitworkspace/sample
 edit bug
+second bug
