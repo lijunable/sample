@@ -39,6 +39,5 @@ bug分支
     建立本地分支和远程分支的关联，使用git branch --set-upstream-to=origin/branch-name
     从远程抓取分支，使用git pull，如果有冲突，要先处理冲突。解决完冲突后再commit，再push
     
-reset命令深入
-eclipse中的命令
+
 	  
