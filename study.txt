@@ -1,7 +1,7 @@
 深入理论知识
 各图标的意思
 eclipse相关：
-命令
+命令,reset,rebase,
 reset命令深入
 对比版本库历史
 导入工程
